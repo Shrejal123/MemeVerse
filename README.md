@@ -40,10 +40,7 @@ npm install
 ### Profile
 ![Image](https://github.com/user-attachments/assets/32520628-d215-4b11-a3e8-d1eaf01ccdc2)
 
-### 
-![Image](https://github.com/user-attachments/assets/de4a4a74-5e7f-442d-b743-83083953b092)
-
-###
+### Leaderboard
 ![Image](https://github.com/user-attachments/assets/99656c14-4a95-46d9-bf98-96fa40359719)
 
 

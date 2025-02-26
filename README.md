@@ -29,7 +29,7 @@ VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 npm install
 ### 🏠 Home Page
-
+![Image](https://github.com/user-attachments/assets/6745a4ba-46f9-4fe7-93bb-5ec9485c21a2)
 
 
 

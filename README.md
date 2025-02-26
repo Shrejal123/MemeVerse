@@ -24,11 +24,14 @@ git clone
 cd MemeVerse
 
 VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 npm install
 ### 🏠 Home Page
-(![Uploading Screenshot 2025-02-27 005342.png…])
+![Home Page](![Uploading Screenshot 2025-02-27 005342.png…]()
+)
+
 
 
 Currently, two official plugins are available:

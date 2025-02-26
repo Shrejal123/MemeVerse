@@ -28,7 +28,7 @@ VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 npm install
 ### 🏠 Home Page
-![Home Page](![Uploading Screenshot 2025-02-27 005342.png…]())
+(![Uploading Screenshot 2025-02-27 005342.png…])
 
 
 Currently, two official plugins are available:
